@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/criptotable.jpg
+  overlay_image: /assets/images/criptotable.jpeg
   cta_label: "<i class='fas fa-download'></i> About me"
   cta_url: "/about/"
   caption:
