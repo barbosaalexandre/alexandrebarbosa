@@ -10,7 +10,7 @@ header:
 excerpt: 'Alexandre is sangue bão.​<br />'
 ---
 
-I have been trying to release my research as open-source projects, open for external contributions and suggestions.
+
 
 My purpose:
 
