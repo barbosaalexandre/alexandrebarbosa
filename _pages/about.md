@@ -16,7 +16,7 @@ last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 # Welcome to Alexandre Costa Barbosa portal
-> Engaged on IT Governance, Strategy and Sociotechnical Systems.
+> Engaged on IT Governance, Strategy and Resilience of Sociotechnical Systems.
 
 > Towards a sustainable digital transformation
 
