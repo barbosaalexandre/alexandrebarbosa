@@ -7,14 +7,15 @@ header:
   cta_label: "<i class='fas fa-download'></i> About me"
   cta_url: "/about/"
   caption:
-excerpt: 'Vitor is a researcher and human passionate for the nature and all living creatures.​<br />'
+excerpt: 'Alexandre is sangue bão.​<br />'
 ---
 
 I have been trying to release my research as open-source projects, open for external contributions and suggestions.
 
-Some general ideas that have been spread are:
-* Promote the evolution to distributed systems;
-* Promote social and software freedom;
+My purpose:
+
+* Promote a sustainable digital transformation;
+* Promote interdisciplinary research and application;
 
 <!---
 
